@@ -1,13 +1,13 @@
-# Olá, seja muito bem-vindo ! 👋
+# Hello, welcome! 👋
 
-Meu nome é Matheus Bernardes Spilari e este é o meu github. :octocat:
+My name is Matheus Bernardes Spilari and this is my github. :octocat:
 
-Desde pequeno sempre fui muito curioso e gostava de desmontar coisas, uma das primeiras foi um leitor de CD de um velho computador.:floppy_disk:
-A parte mais engraçada é que eu as desmontava pois queria saber como funcionavam, o que acontecia ali dentro quando a peça estava ligada e dessa forma quebrei algumas peças de computadores da minha família e até alguns brinquedos meus. :stuck_out_tongue_closed_eyes:
+Since I was a child I have always been very curious and I liked to take things apart, one of the first ones was a CD player on an old computer.:floppy_disk:
+The funniest part is that I took them apart because I wanted to know how they worked, what happened in there when the part was turned on and that way I broke some of my family's computer parts and even some of my toys. :stuck_out_tongue_closed_eyes:
 
-Hoje a curiosidade continua, mas a parte de quebrar coisas não(minha conta bancária agradece). Isso é o que você verá aqui em meu Github. Tento transformá-lo em um grande laboratório, o MEU LABORATÓRIO :telescope:, onde testo novas tecnologias, busco entender como funcionam, fazer algumas analogias do tipo, por que isso tem este nome ? Mas também uso ele como meu portfólio para mostrar meu aprendizado e meus códigos.
+Today the curiosity continues, but the part about breaking things doesn't (my bank account thanks). This is what you will see here on my Github. I try to turn it into a great laboratory, MY LABORATORY :telescope:, where I test new technologies, trying to understand how they work, making some analogies. But I also use it as my portfolio to show my learning and my codes.
 
-### O que eu uso
+### What i use ?
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +28,7 @@ Hoje a curiosidade continua, mas a parte de quebrar coisas não(minha conta banc
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Como me encontrar
+### How to find me ?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/)](https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/)
 
