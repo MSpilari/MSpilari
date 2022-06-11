@@ -7,7 +7,13 @@ The funniest part is that I took them apart because I wanted to know how they wo
 
 Today the curiosity continues, but the part about breaking things doesn't (my bank account thanks). This is what you will see here on my Github. I try to turn it into a great laboratory, MY LABORATORY :telescope:, where I test new technologies, trying to understand how they work, making some analogies. But I also use it as my portfolio to show my learning and my codes.
 
-### What i use ?
+## 📈 Stats
+<div align='center'>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=MSpilari&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true'/>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MSpilari&theme=midnight-purple&langs_count=6&layout=compact'/>
+</div>
+
+## 💻 What i use ?
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +34,7 @@ Today the curiosity continues, but the part about breaking things doesn't (my ba
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### How to find me ?
+## 👣 How to find me ?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/)](https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/)
 
