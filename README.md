@@ -63,9 +63,14 @@ Today the curiosity continues, but the part about breaking things doesn't (my ba
 
 ## 👣 How to find me ?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/)](https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/)
-
-[![MSpilari Badge](https://img.shields.io/badge/MSpilari-Portfolio-black?style=flat-square)](https://mspilariportfolio.vercel.app/)
+<div align='center'>
+  <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/'>
+  <img height='20em' src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'/>
+  </a>
+  <a target='_blank' rel='noopener noreferrer' href='https://mspilariportfolio.vercel.app/'>
+    <img height='40em' src='/images/LogoYB.svg'/>
+  </a>
+</div>
 
 <!--
 **MSpilari/MSpilari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
