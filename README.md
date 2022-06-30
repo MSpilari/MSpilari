@@ -7,6 +7,17 @@ The funniest part is that I took them apart because I wanted to know how they wo
 
 Today the curiosity continues, but the part about breaking things doesn't (my bank account thanks). This is what you will see here on my Github. I try to turn it into a great laboratory, MY LABORATORY :telescope:, where I test new technologies, trying to understand how they work, making some analogies. But I also use it as my portfolio to show my learning and my codes.
 
+## 👣 How to find me ?
+
+<div align='center'>
+  <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/'>
+  <img height='30em' src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'/>
+  </a>
+  <a target='_blank' rel='noopener noreferrer' href='https://mspilariportfolio.vercel.app/'>
+    <img height='30em' src='/images/LogoYB.svg'/>
+  </a>
+</div>
+
 ## 📈 Stats
 <div align='center'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=MSpilari&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true'/>
@@ -60,17 +71,6 @@ Today the curiosity continues, but the part about breaking things doesn't (my ba
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 👣 How to find me ?
-
-<div align='center'>
-  <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/'>
-  <img height='20em' src='https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'/>
-  </a>
-  <a target='_blank' rel='noopener noreferrer' href='https://mspilariportfolio.vercel.app/'>
-    <img height='40em' src='/images/LogoYB.svg'/>
-  </a>
-</div>
 
 <!--
 **MSpilari/MSpilari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
