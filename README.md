@@ -1,11 +1,14 @@
 # Hello, welcome! 👋
 
-My name is Matheus Bernardes Spilari and this is my github. :octocat:
+Hello! I'm Matheus Bernardes Spilari, a technology enthusiast and passionate developer. I have experience in creating innovative and scalable solutions using a variety of technologies. My main focus is on software development, with an emphasis on FullStack.
 
-Since I was a child I have always been very curious and I liked to take things apart, one of the first ones was a CD player on an old computer.:floppy_disk:
-The funniest part is that I took them apart because I wanted to know how they worked, what happened in there when the part was turned on and that way I broke some of my family's computer parts and even some of my toys. :stuck_out_tongue_closed_eyes:
+I believe that collaboration and knowledge sharing are crucial for advancing the technology industry. That's why I'm always seeking out new interesting projects and opportunities to contribute to the developer community.
 
-Today the curiosity continues, but the part about breaking things doesn't (my bank account thanks). This is what you will see here on my Github. I try to turn it into a great laboratory, MY LABORATORY :telescope:, where I test new technologies, trying to understand how they work, making some analogies. But I also use it as my portfolio to show my learning and my codes.
+When exploring my profile, you'll find a variety of projects I've worked on, ranging from web applications to automation and integration solutions. I'm constantly honing my skills and staying up-to-date with the latest trends in the technology field.
+
+In addition to software development, I also value clear communication, teamwork, and the pursuit of creative solutions. I'm open to collaboration opportunities and always willing to help fellow developers.
+
+I invite you to explore my repositories, check out my projects, and reach out to me if you have any questions, suggestions, or collaboration opportunities. I look forward to being part of exciting projects and contributing to the evolution of technology.
 
 ## 👣 How to find me ?
 
