@@ -21,12 +21,6 @@ I invite you to explore my repositories, check out my projects, and reach out to
   </a>
 </div>
 
-## 📈 Stats
-<div align='center'>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=MSpilari&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true'/>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MSpilari&theme=midnight-purple&langs_count=6&layout=compact'/>
-</div>
-
 ## 💻 What i use ?
 
 ### 🖥️ Front-End
