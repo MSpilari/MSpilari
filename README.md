@@ -10,50 +10,55 @@ In addition to software development, I also value clear communication, teamwork,
 
 I invite you to explore my repositories, check out my projects, and reach out to me if you have any questions, suggestions, or collaboration opportunities. I look forward to being part of exciting projects and contributing to the evolution of technology.
 
-## 👣 How to find me ?
-
 <div>
-  <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/'>
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a target='_blank' rel='noopener noreferrer' href='https://mspilariportfolio.vercel.app/'>
-    <img height='30em' src='/images/LogoYB.svg'/>
-  </a>
-  <a target='_blank' rel='noopener noreferrer' href='https://dev.to/mspilari'>
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
+  <div>
+    <h3> 👣 How to find me ?</h3>
+    <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/in/matheus-bernardes-spilari-2b8068188/'>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a target='_blank' rel='noopener noreferrer' href='https://mspilariportfolio.vercel.app/'>
+      <img height='30em' src='/images/LogoYB.svg'/>
+    </a>
+    <a target='_blank' rel='noopener noreferrer' href='https://dev.to/mspilari'>
+      <img src="https://skillicons.dev/icons?i=devto" />
+    </a>
+  </div>
+  
+  <div>
+    <h3> :capital_abcd: Languages</h3>
+    <img src="https://skillicons.dev/icons?i=ts,java,py"/>
+  </div>
+  
+  <div>
+    <h3> 🖥️ Front-End</h3>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular"/>
+  </div>
+  
+  <div>
+    <h3> 💅 Style</h3>
+    <img src="https://skillicons.dev/icons?i=css,sass,styledcomponents,tailwind,figma"/>
+  </div>
+  
+  <div>
+    <h3> 🐕‍🦺 Back-End</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,docker"/>
+  </div>
+  
+  <div>
+    <h3> :basecamp: Data-Bases </h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase"/>
+  </div>
+  
+  <div>
+    <h3> 🧪 Tests </h3>
+    <img src="https://skillicons.dev/icons?i=jest,vitest,cypress"/>
+  </div>
+  
+  <div>
+    <h3> 🦸‍♂️ Deploy </h3>
+    <img src="https://skillicons.dev/icons?i=heroku,vercel,netlify"/>
+  </div>
 </div>
-
-## 💻 What i use ?
-
-### :capital_abcd: Languages
-
-[![My Skills](https://skillicons.dev/icons?i=ts,java,py)](https://skillicons.dev)
-
-### 🖥️ Front-End
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular)](https://skillicons.dev)
-
-### 💅 Style
-
-[![My Skills](https://skillicons.dev/icons?i=css,sass,styledcomponents,tailwind,figma)](https://skillicons.dev)
-
-### 🐕‍🦺 Back-End
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,docker)](https://skillicons.dev)
-
-### :basecamp: Data-Bases
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,firebase)](https://skillicons.dev)
-
-### 🧪 Tests
-
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress)](https://skillicons.dev)
-
-### 🦸‍♂️ Deploy
-
-[![My Skills](https://skillicons.dev/icons?i=heroku,vercel,netlify)](https://skillicons.dev)
-
 <!--
 **MSpilari/MSpilari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
